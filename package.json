@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A complete 2-player chess game built with React",
   "main": "index.js",
-  "homepage": "https://muhammadraheel786.github.io/chess-Game/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
